@@ -20,7 +20,7 @@
     font-size: 18px;
 
     & header {
-        max-width: 600px;
+        max-width: 500px;
         padding: 2rem 0;
         margin: 0 auto;
         display: flex;
@@ -44,7 +44,7 @@
     & form {
         margin: 0 auto;
         width: 100%;
-        max-width: 600px;
+        max-width: 500px;
 
         & input {
             width: 100%;            
@@ -57,7 +57,7 @@
     }
 
     & ul {
-        max-width: 600px;
+        max-width: 500px;
         margin: 1rem auto 0 auto;
         border-radius: 0.5rem;
         padding: 0.3rem 0;
@@ -130,7 +130,7 @@
     }
 
     & .filter-menu {
-        max-width: 600px;
+        max-width: 500px;
         margin: 1rem auto 0 auto;
         padding: 1rem 0;
         border-radius: 0.5rem;
