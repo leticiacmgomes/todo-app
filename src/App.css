@@ -25,7 +25,6 @@
         margin: 0 auto;
         display: flex;
         justify-content: space-between;
-        border: red 2px solid;
 
         & h1 {
             color: hsl(0, 0%, 98%);
